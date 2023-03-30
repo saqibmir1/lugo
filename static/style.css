@@ -1,11 +1,11 @@
 body {
 	font-family: sans-serif ;
-	background: #110000 ;
+	background: black ;
 	color: #ccc ;
 }
 
 main {
-	max-width: 800px ;
+	max-width: 900px ;
 	margin: auto ;
 }
 
